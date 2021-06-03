@@ -4,13 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hey {} ⚠️ മൂവി ഫയൽ ലഭിക്കുന്നതിനായി താഴെ കാണുന്ന /start ൽ ക്ലിക്ക് ചെയ്യുക.⚠️!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+You can't add me in your group 😜😜😜
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@MoviesWorldOfficial_bot
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +42,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@MoviesWorldOfficial_bot
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/@Ju_official_telegram>Jyothish_Uday</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/sangeethuday/Thor">Click Me</a></i>
 """
