@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎖️ Join our group 🎖️', url="https://t.me/mallu_moviez_world"
                                 )
                         ]
                     ]
@@ -89,12 +89,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('🎖️ Join our group 🎖️', url='https://t.me/mallu_moviez_world'),
+        InlineKeyboardButton('🔰 Our Channel 🔰', url ='https://t.me/all_movie_world_official')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🔰 Web series 🔰', url='https://t.me/web_series_movie_world')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('🔰 Tamil movies 🔰', url='https://t.me/tamil_movies_world_official')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -115,7 +115,7 @@ async def help(bot, update):
         InlineKeyboardButton('Home ⚡', callback_data='start'),
         InlineKeyboardButton('About 🚩', callback_data='about')
     ],[
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('King maker', callback_data='@Ju_official_telegram')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
